@@ -1,3 +1,0 @@
-/home/jinsong/Desktop/mujoco_cpp/mujoco/myProject/RMP/build/CMakeFiles/rebuild_cache.dir
-/home/jinsong/Desktop/mujoco_cpp/mujoco/myProject/RMP/build/CMakeFiles/edit_cache.dir
-/home/jinsong/Desktop/mujoco_cpp/mujoco/myProject/RMP/build/CMakeFiles/main.dir
